@@ -15,7 +15,7 @@
 
   <!-- Custom styles for this template -->
   <link href="css/shop-homepage.css" rel="stylesheet">
-  <link href="dark.css" rel="stylesheet">
+  <link href="dark.php" rel="stylesheet">
   <script src="darkmode.js" defer></script>
 
 </head>
